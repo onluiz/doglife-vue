@@ -2,6 +2,7 @@
   <v-app>
     <header-main-page />
     <dog-card-list />
+    <router-view />
     <footer-main-page />
   </v-app>
 </template>
